@@ -29,7 +29,7 @@ Using the existing tables, the following reports were created:
 - Lists all students who are enrolled in **more than 1 course**.
 
 ## 🗂️ Files Included
-- `[StudentManagement_Task4_reports_Riya_Kumar.sql](https://github.com/user-attachments/files/23605760/StudentManagement_Task4_reports_Riya_Kumar.sql) — SQL script with all analytical report queries  
+- [StudentManagement_Task4_reports_Riya_Kumar.sql](https://github.com/user-attachments/files/23605760/StudentManagement_Task4_reports_Riya_Kumar.sql) — SQL script with all analytical report queries  
 - [Results_Screenshots.zip](https://github.com/user-attachments/files/23605906/Results_Screenshots.zip) — Screenshots of query results
 - `README.md` — project documentation
  
