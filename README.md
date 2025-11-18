@@ -1,6 +1,6 @@
 # Student Management Database – Task 4
 
-This project is part of my internship at Main Crafts Tevchnology.  
+This project is part of my internship at Main Crafts Technology.  
 In Task 4, I created **analytical SQL reports** using JOINs, aggregations, and subqueries on the existing Student Management Database (students, courses, enrollments).
 
 ## 📘 Task Overview
